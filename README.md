@@ -1,7 +1,7 @@
 # ReadThat
 
 A book discovery and review web app. Browse books, write reviews, track reading progress, and manage content from an admin dashboard. Backend powered by [Supabase](https://supabase.com).
---------------------------
+-------------------------------
 ## Features
 
 - **Auth** — sign up, log in, and role-based access (user / admin)
